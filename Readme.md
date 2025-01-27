@@ -36,7 +36,11 @@
 <p><a href="https://www.buymeacoffee.com/user_not_define"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="user_not_define" /></a><a href="https://ko-fi.com/user_not_define"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="user_not_define" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshmaurya1&show_icons=true&locale=en&layout=compact" alt="riteshmaurya1" /></p>
+<br>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshmaurya1&show_icons=true&locale=en" alt="riteshmaurya1" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=riteshmaurya1&show_icons=true&locale=en" alt="riteshmaurya1" /></p>
+<br>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshmaurya1&" alt="riteshmaurya1" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshmaurya1&" alt="riteshmaurya1" /></p>
