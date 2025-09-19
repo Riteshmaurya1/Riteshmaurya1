@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riteshmaurya1" alt="riteshmaurya1" /></a> </p>
 
-- 🔭 I’m currently working on [ExamExpress](Not deployed yet)
+- 🔭 I’m currently working on [ExamExpress](https://examexpress.vercel.app/)
 
 - 🌱 I’m currently learning **Advance React**
 
 - 👯 I’m looking to collaborate on [windows 10 lock screen modification](---**---**---**---)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ritesh-kumar.vercel.app/](https://portfolio-ritesh-kumar.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://collwebs.vercel.app/](https://collwebs.vercel.app/)
 
 - 💬 Ask me about **Frontend technologies related questions.**
 
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ritesh-kumar-69a50a25b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh-kumar-69a50a25b" height="30" width="40" /></a>
 <a href="https://instagram.com/user__not__define" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="user_not_define" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ritesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritesh-kumar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Ritesh__Maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritesh-kumar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/riteshmauryabtec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="riteshmauryabtec" height="30" width="40" /></a>
 </p>
 
