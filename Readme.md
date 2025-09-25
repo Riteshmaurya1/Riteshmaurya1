@@ -1,77 +1,125 @@
-<h1 align="center">Hi 👋, I'm Ritesh Maurya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Hi+👋,+I'm+Ritesh+Maurya;Frontend+Developer+🚀;Problem+Solver+🧩;Always+Learning+📚" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshmaurya1&label=Profile%20views&color=0e75b6&style=flat" alt="riteshmaurya1" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=riteshmaurya1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/riteshmaurya1?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/riteshmaurya1?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riteshmaurya1" alt="riteshmaurya1" /></a> </p>
+---
 
-- 🔭 I’m currently working on [ExamExpress](https://examexpress.vercel.app/)
+## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Advance React**
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-- 👯 I’m looking to collaborate on [windows 10 lock screen modification](---**---**---**---)
+- 🔭 I’m currently working on [ExamExpress](https://examexpress.vercel.app/) - An innovative exam platform  
+- 🌱 I’m currently learning **Advanced React** and improving my problem solving skills  
+- 👯 I’m looking to collaborate on open source frontend projects  
+- 💼 All of my projects are available at [My Portfolio](https://collwebs.vercel.app/)  
+- 💬 Ask me about **Frontend technologies, React, JavaScript, Java, DSA**  
+- 📫 How to reach me: **riteshkumar04294@gmail.com**  
+- 📍 Based in **Lucknow, Uttar Pradesh, India**  
+- ⚡ Fun fact: I believe in Karma!
 
-- 👨‍💻 All of my projects are available at [https://collwebs.vercel.app/](https://collwebs.vercel.app/)
+---
 
-- 💬 Ask me about **Frontend technologies related questions.**
+## 🛠️ Tech Stack & Tools
 
-- 📫 How to reach me **Riteshkumar04294@gmail.com**
+**Programming Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-- 📄 Know about my experiences [---**---**----*---*--.](---**---**----*---*--.)
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-- ⚡ Fun fact **I believe in Karma.**
+**Backend / Database:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ritesh-kumar-69a50a25b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh-kumar-69a50a25b" height="30" width="40" /></a>
-<a href="https://instagram.com/user__not__define" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="user_not_define" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Ritesh__Maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritesh-kumar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/riteshmauryabtec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="riteshmauryabtec" height="30" width="40" /></a>
-</p>
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.instagram.com/user__not__define"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="user_not_define" /></a><a href="https://ko-fi.com/user_not_define">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="user__not__define" /></a>
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshmaurya1&show_icons=true&locale=en&layout=compact" alt="riteshmaurya1" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+## 🌐 Connect With Me
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=riteshmaurya1&show_icons=true&locale=en" alt="riteshmaurya1" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-kumar-69a50a25b)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/user__not__define)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Ritesh__Maurya)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/riteshmauryabtec)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://collwebs.vercel.app/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshkumar04294@gmail.com)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshmaurya1&" alt="riteshmaurya1" /></p>
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshmaurya1&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riteshmaurya1&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshmaurya1&layout=compact&theme=radical&hide_border=true)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riteshmaurya1&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+---
+
+## 📈 Contribution Graph
+
+[![Ritesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riteshmaurya1&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🚀 Featured Projects
+
+<a href="https://github.com/riteshmaurya1/examexpress">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=riteshmaurya1&repo=examexpress&theme=radical&hide_border=true" alt="ExamExpress" />  
+</a>
+
+<a href="https://github.com/riteshmaurya1/portfolio">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=riteshmaurya1&repo=portfolio&theme=radical&hide_border=true" alt="Portfolio" />  
+</a>
+
+---
+
+## 💻 Coding Profiles
+
+| Platform        | Profile                                                                   | Notes                |
+|-----------------|---------------------------------------------------------------------------|----------------------|
+| **LeetCode**      | [@Ritesh__Maurya](https://leetcode.com/u/Ritesh__Maurya)                  | Problem-solving      |
+| **GeeksforGeeks** | [@riteshmauryabtec](https://auth.geeksforgeeks.org/user/riteshmauryabtec) | Active contributor   |
+| **GitHub**        | [@riteshmaurya1](https://github.com/riteshmaurya1)                        | Open source projects |
+
+---
+
+## ☕ Support Me
+
+<a href="https://www.buymeacoffee.com/riteshmaurya" target="_blank">  
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />  
+</a>
+
+<a href="https://ko-fi.com/riteshmaurya" target="_blank">  
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />  
+</a>
+
+**Or simply give a ⭐ to my repositories if you find them useful!**
+
+---
+
+## 🎯 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<p align="center"><i>⭐️ From <a href="https://github.com/riteshmaurya1">Ritesh Maurya</a></i></p>
