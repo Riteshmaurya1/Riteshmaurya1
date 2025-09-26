@@ -1,7 +1,5 @@
-<img src="https://github.com/Riteshmaurya1/github-photo/blob/main/Header.png" />
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Hi+👋,+I'm+Ritesh+Maurya;Frontend+Developer+🚀;Problem+Solver+🧩;Always+Learning+📚" alt="Typing SVG" />
-</h1>
+<img src="https://github.com/Riteshmaurya1/github-photo/blob/main/Profile.gif" />
+<h1 align="center">Hi 👋, I'm Ritesh Maurya : Frontend Developer 🚀 | Problem Solver 🧩 | Always Learning 📚</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=riteshmaurya1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
